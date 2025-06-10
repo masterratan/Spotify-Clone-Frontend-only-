@@ -16,8 +16,7 @@ A frontend-only clone of the popular music streaming platform **Spotify**, built
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your project here using the format below)*  
-> ![Screenshot](path/to/screenshot.png)
+![image alt](https://github.com/masterratan/Spotify-Frontend-Clone/blob/3681711543792830c745fe53059a96b81dc6b4f2/spotify_img.png)
 
 ## 🎯 Purpose
 This project was created for educational purposes to practice frontend skills by replicating a real-world UI layout.
